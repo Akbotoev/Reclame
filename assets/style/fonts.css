@@ -1,0 +1,207 @@
+@import "fonts.css";
+
+@font-face {
+    font-family: 'Jost';
+    src: url('Jost-ExtraBoldItalic.eot');
+    src: url('Jost-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Jost-ExtraBoldItalic.woff2') format('woff2'),
+        url('Jost-ExtraBoldItalic.woff') format('woff'),
+        url('Jost-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jost';
+    src: url('Jost-Regular.eot');
+    src: url('Jost-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Jost-Regular.woff2') format('woff2'),
+        url('Jost-Regular.woff') format('woff'),
+        url('Jost-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jost';
+    src: url('Jost-BoldItalic.eot');
+    src: url('Jost-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Jost-BoldItalic.woff2') format('woff2'),
+        url('Jost-BoldItalic.woff') format('woff'),
+        url('Jost-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jost';
+    src: url('Jost-MediumItalic.eot');
+    src: url('Jost-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('Jost-MediumItalic.woff2') format('woff2'),
+        url('Jost-MediumItalic.woff') format('woff'),
+        url('Jost-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jost';
+    src: url('Jost-Bold.eot');
+    src: url('Jost-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Jost-Bold.woff2') format('woff2'),
+        url('Jost-Bold.woff') format('woff'),
+        url('Jost-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jost';
+    src: url('Jost-ExtraBold.eot');
+    src: url('Jost-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Jost-ExtraBold.woff2') format('woff2'),
+        url('Jost-ExtraBold.woff') format('woff'),
+        url('Jost-ExtraBold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jost';
+    src: url('Jost-Medium.eot');
+    src: url('Jost-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Jost-Medium.woff2') format('woff2'),
+        url('Jost-Medium.woff') format('woff'),
+        url('Jost-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jost';
+    src: url('Jost-ExtraLightItalic.eot');
+    src: url('Jost-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Jost-ExtraLightItalic.woff2') format('woff2'),
+        url('Jost-ExtraLightItalic.woff') format('woff'),
+        url('Jost-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jost';
+    src: url('Jost-LightItalic.eot');
+    src: url('Jost-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Jost-LightItalic.woff2') format('woff2'),
+        url('Jost-LightItalic.woff') format('woff'),
+        url('Jost-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jost';
+    src: url('Jost-Light.eot');
+    src: url('Jost-Light.eot?#iefix') format('embedded-opentype'),
+        url('Jost-Light.woff2') format('woff2'),
+        url('Jost-Light.woff') format('woff'),
+        url('Jost-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jost';
+    src: url('Jost-BlackItalic.eot');
+    src: url('Jost-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('Jost-BlackItalic.woff2') format('woff2'),
+        url('Jost-BlackItalic.woff') format('woff'),
+        url('Jost-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jost';
+    src: url('Jost-ExtraLight.eot');
+    src: url('Jost-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('Jost-ExtraLight.woff2') format('woff2'),
+        url('Jost-ExtraLight.woff') format('woff'),
+        url('Jost-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Jost';
+    src: url('Jost-Black.eot');
+    src: url('Jost-Black.eot?#iefix') format('embedded-opentype'),
+        url('Jost-Black.woff2') format('woff2'),
+        url('Jost-Black.woff') format('woff'),
+        url('Jost-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jost';
+    src: url('Jost-SemiBold.eot');
+    src: url('Jost-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Jost-SemiBold.woff2') format('woff2'),
+        url('Jost-SemiBold.woff') format('woff'),
+        url('Jost-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jost';
+    src: url('Jost-Thin.eot');
+    src: url('Jost-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Jost-Thin.woff2') format('woff2'),
+        url('Jost-Thin.woff') format('woff'),
+        url('Jost-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jost';
+    src: url('Jost-ThinItalic.eot');
+    src: url('Jost-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('Jost-ThinItalic.woff2') format('woff2'),
+        url('Jost-ThinItalic.woff') format('woff'),
+        url('Jost-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jost';
+    src: url('Jost-SemiBoldItalic.eot');
+    src: url('Jost-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Jost-SemiBoldItalic.woff2') format('woff2'),
+        url('Jost-SemiBoldItalic.woff') format('woff'),
+        url('Jost-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+

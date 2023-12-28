@@ -1,0 +1,94 @@
+.header{
+    background:#141024 ;
+    height: 80px;
+}
+.logo_head{
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: left;
+    text-decoration: none;
+    color:white;
+    font-family: 'Jost';
+    display: flex;
+    justify-content: flex-start;
+    padding:15px 0 0 50px;
+    
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap:35px;
+    margin:-35px 0 0 0px;
+    color:white;
+    font-weight: 400;
+    font-family: 'Jost';
+}
+.phone_link{
+    display: flex;
+    justify-content: flex-end;
+    font-family: 'Jost';
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 48px;
+}
+.phone{
+    margin:-30px 70px 0px 30px;
+    text-decoration: none;
+    color:white;
+}
+body{
+    height: auto;
+    overflow: hidden;
+}
+.content{
+    background: #141024;
+    width: auto;
+    height:720px;
+    display: flex;
+    justify-content: flex-end;
+    padding: 60px 0px 0px 100px;
+    flex-direction: row-reverse;
+
+}
+.rectangle{
+    width: 400px;
+    height: 400px;
+    background: #141024;
+    border-radius: 300px;
+    border: solid 40px #ffff;
+    margin: 10px 30px 0 310px;
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.man{
+    width: 700px;
+    margin:-120px -80px -30px 20px ;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color:white;
+    font-family: 'Jost';
+    margin:-350px 0 0 50px;
+}
+.sentence{
+width:300px;
+}
+.lonk{
+    width:250px;
+    font-size: 30px;
+}
+.words{
+    background: #D52027;
+    width: 160px;
+    height:50px;
+    padding:25px 0 0 30px;
+   
+}
